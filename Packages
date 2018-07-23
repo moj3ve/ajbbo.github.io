@@ -1,0 +1,20 @@
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: GameGem
+Package: com.aidoo.memsearch
+Depends: firmware (>= 6.0)
+Section: Utilities
+Installed-Size: 6713
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Cheat engine for iOS. Change variable values.
+dev: aidoo
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Applications/MemSearch.app/AppIcon57x57.png
+MD5sum: 00e4b58dc8e57951750fa74716fb4684
+SHA1sum: 464959dd69b6e2f7653a19e690ae6daa1c2e29f7
+SHA256sum: 40b7a6e7bf4fcd882a64041ef50a9a4dc8dab5ed3b53cbd523ebb5a134e36ba2
+Filename: debs//gamegem_1.1.deb
+size:1527804

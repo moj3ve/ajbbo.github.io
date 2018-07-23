@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/bin/launchctl unload /Library/LaunchDaemons/com.tyc.tcscan.plist
+
+exit 0
