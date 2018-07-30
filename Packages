@@ -1,0 +1,12 @@
+Package: ajbbo.com.gamegem
+Version: 1.1
+Section: Tweaks
+Maintainer: aJBbo <Support@ajbbo.com>
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./deb/ajbbo.com.gamegem.deb
+Size: 1527804
+MD5sum: 00e4b58dc8e57951750fa74716fb4684
+Description: لتهكير الالعاب
+Name: Alegreya Sans Font for Anemone
+Author: aJBbo <Support@ajbbo.com>
