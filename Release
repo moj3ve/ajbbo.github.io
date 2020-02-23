@@ -6,10 +6,3 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: aJBbo Main Repo
-MD5Sum:
- MD5 1011 Packages
- MD5 634 Packages.bz2
- MD5 640 Packages.xz
-SHA256:
- 5cfcd8f193fa7acfa016489427cf38d6a6a68cd31fde52a0009bc4722c788666 1011 Packages
- 06dab88ecd59dd253badbe5587478d37e94840534eebc0870dcc47109d64f6e5 634 Packages.bz2
