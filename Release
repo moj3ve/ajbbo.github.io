@@ -1,8 +1,16 @@
-Origin: aJBbo Beta Repo
-Label: aJBbo Beta Repo
+Origin: aJBbo Repo
+Label: aJBbo Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: aJBboCydia
+Description: aJBbo Main Repo
+MD5Sum:
+ MD5 1011 Packages
+ MD5 634 Packages.bz2
+ MD5 640 Packages.xz
+SHA256:
+ d8132187db2ef05f93216875dc8d6d4dab22deffa43496897152a1093ca7fd65 1011 Packages
+ d6b9b0aec261a4ed9e12e29f7f8fbb9783b046294028a01806b9e5dab6a0696b 634 Packages.bz2
+ a67e0d4bdcb3e2d52228f1b4d8443cdd97c24219f615d6d870041726858335ea 640 Packages.xz
